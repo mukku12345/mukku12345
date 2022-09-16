@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mukku12345
 - 👀 I’m interested in full stack web Development
-- 🌱 I’m currently learning ...Advance DSA and JavaScript
+- 🌱 I’m currently learning ...react and Node js express js 
+   6 month experience in...Advance DSA and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Linkedin
 
